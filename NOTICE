@@ -1,0 +1,21 @@
+# NOTICE
+
+Iron Etch R
+Copyright (c) 2026 MrKedow. All rights reserved.
+
+This repository is restricted source-available, not open source. See LICENSE.
+
+## Third-Party Components
+
+The application uses third-party software packages, including Flutter and packages listed in `pubspec.yaml`. Those components remain subject to their own licenses.
+
+## Content and Services
+
+- Bilibili videos, player pages, UP-host names, and related content belong to Bilibili and their respective rights holders. The application does not claim ownership of such content.
+- Book titles, EPUB files, and reading content belong to their respective rights holders.
+- AI knowledge-base content and generated analysis are provided for fitness reference only and do not constitute medical advice.
+- "铁镌", "Iron Etch", "Iron Etch R", and associated logos and icons are trademarks or brand assets of MrKedow. No trademark rights are granted by the source code license.
+
+## Distribution
+
+No permission is granted to publish or distribute the Software or any build of it. See LICENSE.

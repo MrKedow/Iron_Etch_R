@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "type": "fitness_up_playlist",
+  "categories": [
+    {
+      "id": "home",
+      "name": "居家跟练/减脂塑形",
+      "items": [
+        { "id": "pamela", "name": "帕梅拉", "tags": ["HIIT", "燃脂", "短时高效"], "audience": "有基础/暴汗" },
+        { "id": "zhouliuye", "name": "周六野", "tags": ["无器械", "新手", "体态"], "audience": "新手/大基数" },
+        { "id": "jo", "name": "Jo姐", "tags": ["无跳跃", "踏步", "燃脂"], "audience": "新手/膝盖友好" },
+        { "id": "hanxiaosi", "name": "韩小四", "tags": ["跟练", "瘦腿", "经期友好"], "audience": "新手/反复开始" },
+        { "id": "ouyangchunxiao", "name": "欧阳春晓", "tags": ["沙漏腰", "肩背", "体态"], "audience": "女生塑形" },
+        { "id": "shugui", "name": "叔贵", "tags": ["居家", "体态", "误区"], "audience": "居家/纠正" },
+        { "id": "maoshu", "name": "猫叔慢跑", "tags": ["大体重", "燃脂", "护腰"], "audience": "大体重" },
+        { "id": "anna", "name": "安娜", "tags": ["哑铃", "力量有氧", "节奏"], "audience": "有基础" },
+        { "id": "mizi", "name": "Mizi", "tags": ["轻燃脂", "站姿", "关节友好"], "audience": "日常有氧" },
+        { "id": "eleni", "name": "Eleni Fit", "tags": ["轻燃脂", "站姿", "关节友好"], "audience": "日常有氧" }
+      ]
+    },
+    {
+      "id": "strength",
+      "name": "力量训练/健身房实操",
+      "items": [
+        { "id": "haorensongsong", "name": "好人松松", "tags": ["增肌减脂", "系统方案", "长视频"], "audience": "小白到进阶" },
+        { "id": "kaishengwang", "name": "凯圣王", "tags": ["健身房实拍", "动作细节", "三大项"], "audience": "实操" },
+        { "id": "zby", "name": "ZBY力量举", "tags": ["力量举", "三大项", "进阶"], "audience": "冲重量" },
+        { "id": "turen", "name": "兔人新本", "tags": ["动作示范", "臀腿"], "audience": "臀腿" },
+        { "id": "chenbolin", "name": "陈柏霖", "tags": ["量化训练", "动作精讲", "原理"], "audience": "系统学习" },
+        { "id": "shuaisoserious", "name": "帅soserious", "tags": ["健身生活", "习惯养成", "科普"], "audience": "陪伴动力" }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "健身科普/运动康复",
+      "items": [
+        { "id": "yangwang", "name": "仰望伟继云", "tags": ["运动营养", "生理", "底层逻辑"], "audience": "建立认知" },
+        { "id": "kongboshi", "name": "孔博士工作室", "tags": ["康复", "膝盖肩颈腰背", "营养"], "audience": "预防损伤" },
+        { "id": "zuojiao", "name": "左教的健身脑回路", "tags": ["解剖", "生理", "营养"], "audience": "学科视角" },
+        { "id": "yisulin", "name": "伊苏林迪竹节虫", "tags": ["家庭器械", "器械科普"], "audience": "家庭健身房" }
+      ]
+    },
+    {
+      "id": "female",
+      "name": "女性向/体态塑形",
+      "items": [
+        { "id": "coffee", "name": "Coffee林芊妤", "tags": ["瘦腿", "腿型"], "audience": "女生腿型" },
+        { "id": "chloeting", "name": "Chloe Ting", "tags": ["徒手HIIT", "暴汗"], "audience": "新手可挑战" },
+        { "id": "yingyi", "name": "迎姨Ashley", "tags": ["自重", "核心", "身体控制"], "audience": "硬核女性力量" },
+        { "id": "fanliyuan", "name": "范李猿", "tags": ["瑜伽", "拉伸", "体态"], "audience": "放松体态" }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "其他风格/实战街健",
+      "items": [
+        { "id": "yerenluosi", "name": "野人洛斯", "tags": ["街健", "徒手", "HIIT"], "audience": "实战派" },
+        { "id": "baoge", "name": "豹哥健身", "tags": ["动作资料库", "搜索"], "audience": "查动作" },
+        { "id": "yang", "name": "卖蛋糕的可爱杨", "tags": ["增肌减脂", "励志日常"], "audience": "日常记录" }
+      ]
+    }
+  ]
+}

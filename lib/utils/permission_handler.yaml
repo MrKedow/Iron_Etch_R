@@ -1,0 +1,69 @@
+name: fitness_tracker
+description: 现代化健身数据管理系统
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # 基础UI
+  cupertino_icons: ^1.0.6
+  
+  # 状态管理
+  provider: ^6.1.1
+  
+  # 国际化与时间
+  intl: ^0.19.0
+  
+  # 通知
+  fluttertoast: ^8.2.2
+  
+  # 本地存储
+  shared_preferences: ^2.2.3
+  path_provider: ^2.1.1
+  
+  # 路径处理
+  path: ^1.9.0
+  
+  # Excel处理
+  excel: ^4.0.6
+  
+  # HTTP请求
+  http: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # 代码质量检查
+  flutter_lints: ^3.0.2
+  
+  # 图标生成工具
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  
+  # 声明图标资源
+  assets:
+    - assets/icon/launcher_icon.png
+
+# 配置应用图标
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/launcher_icon.png"
+  # Windows配置
+  windows:
+    image_path: "assets/icon/launcher_icon.png"
+    icon_size: 48  # 可以指定大小，但通常自动生成所有尺寸
+  # macOS配置
+  macos:
+    image_path: "assets/icon/launcher_icon.png"
+  # Linux配置
+  linux:
+    image_path: "assets/icon/launcher_icon.png"

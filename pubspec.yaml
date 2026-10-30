@@ -1,0 +1,58 @@
+name: fitness_tracker
+description: 铁镌 - 镌刻每一次撸铁的现代化个人健身数据管理系统。
+publish_to: "none"
+version: 3.2.2+7
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  provider: ^6.1.1
+  intl: ^0.20.2
+  shared_preferences: ^2.2.2
+  path_provider: ^2.1.0
+  image_picker: ^1.0.5
+  flutter_spinkit: ^5.2.0
+  http: ^1.1.0
+  crypto: ^3.0.6
+  fluttertoast: ^9.0.0
+  url_launcher: ^6.2.5
+  webview_flutter: ^4.4.0   # 替换 webview_windows
+  webview_flutter_android: ^4.11.0
+  excel: ^4.0.0
+  process_run: ^1.1.0
+  html: ^0.15.4   # 用于解析 HTML
+  xml: ^6.3.0    # 用于解析 XML
+  share_plus: ^10.0.0
+  file_picker: ^11.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/吉祥物奔奔猫.gif
+    - assets/阿比盖尔.gif
+    - assets/奔跑.gif
+    - assets/超级赛亚人.png
+    - assets/搓搓手.gif
+    - assets/加油丸子.gif
+    - assets/开心云朵.gif
+    - assets/拳皇.gif
+    - assets/诗人.gif
+    - assets/无奈社畜.gif
+    - assets/熊猫头.gif
+    - assets/一起跳舞.gif
+    - assets/coach_rules.json
+    - assets/bili_list.json
+    - assets/icon/app_icon.png
+    - assets/images/
+    - assets/exercises/

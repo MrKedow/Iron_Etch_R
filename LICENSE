@@ -1,0 +1,58 @@
+# Iron Etch R Restricted Source License v1.0
+
+Copyright (c) 2026 MrKedow. All rights reserved.
+
+This repository and its contents, including source code, assets, artwork, documentation, and configuration files (the "Software"), are provided strictly for viewing, personal study, evaluation, and contribution to this repository.
+
+This is a restricted source-available license. It is not an open-source license and grants no distribution rights.
+
+## 1. Limited Permission
+
+You may:
+
+- view and read the Software;
+- clone or fork the Software through GitHub's built-in functionality solely for personal study and evaluation;
+- submit bug reports, suggestions, or pull requests to this repository.
+
+You may build the Software locally for personal testing only.
+
+## 2. Prohibited Uses
+
+Without prior written permission from the copyright holder, you may NOT:
+
+1. copy, publish, distribute, sublicense, sell, rent, lease, or otherwise make the Software or any derivative work available to any third party;
+2. use the Software for any commercial purpose;
+3. publish, upload, or distribute any application, package, installer, or binary built from the Software;
+4. publish any build on any application marketplace, software repository, website, or distribution platform;
+5. modify, adapt, translate, or create derivative works for distribution;
+6. remove, obscure, or alter any copyright, license, trademark, or attribution notices;
+7. use the names "铁镌", "Iron Etch", "IronEtch", associated logos, icons, or other brand features;
+8. represent any build as official, authorized, sponsored, or endorsed.
+
+## 3. Contributions
+
+By submitting a pull request, patch, issue, or other contribution, you grant the copyright holder a perpetual, worldwide, royalty-free, irrevocable license to use, reproduce, modify, distribute, and relicense your contribution as part of the Software.
+
+## 4. No Trademark or Patent License
+
+No trademark, service mark, trade name, logo, or patent rights are granted by this license. See TRADEMARK.md.
+
+## 5. Termination
+
+Any violation of this license automatically terminates all permissions granted to you. Upon termination, you must stop using the Software and delete all copies and derivative works in your possession or control.
+
+## 6. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+## 7. Chinese Summary
+
+本许可证仅为方便阅读提供摘要，英文正文为准：
+
+- 本项目属于受限源码可见项目，不是开源许可。
+- 只允许查看、个人学习和评估、向本仓库提交贡献。
+- 可以在本地编译用于个人测试，但不得发布或分发任何构建。
+- 禁止商用、再分发、上架任何平台、制作衍生发行版。
+- 禁止使用“铁镌 / Iron Etch”名称、图标、Logo 或暗示官方授权。
+
+For permissions beyond this license, contact the copyright holder.
